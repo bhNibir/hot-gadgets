@@ -101,11 +101,7 @@ body{
 }
 
 .payment img{
-    height: 150px;
-    width: 150px;
     box-shadow: 5px 5px 10px lightgray;
     border: none;
-    padding: 30px;
-    margin: 15px;
-    border-radius: 0 15px;
+    border-radius: 0 10px;
 }
