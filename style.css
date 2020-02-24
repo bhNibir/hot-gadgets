@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins';
 }
+
 .container{
     margin-bottom: 75px;
 }
@@ -13,9 +14,7 @@ body{
     padding: 10px 25px;
 }
 
-/* .rotate{
-    transform: rotate(-90deg);
-} */
+
 
 .rotate{    
     font-size: 3rem;
@@ -36,8 +35,7 @@ body{
   }
 
 
-
-.card{
+  .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
     border-radius: 15px;
